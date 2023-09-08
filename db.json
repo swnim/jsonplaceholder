@@ -209,62 +209,6 @@
       "status": "done",
       "url": "http://dummyimage.com/640x640.png/ff4444/ffffff",
       "thumbUrl": "http://dummyimage.com/320x320.png/5fa2dd/ffffff"
-    },
-    {
-      "uid": "357cdfbe-5649-4bd4-b4df-df0996b2d724",
-      "name": "Quam.xls",
-      "status": "uploading",
-      "url": "http://dummyimage.com/640x640.png/5fa2dd/ffffff",
-      "thumbUrl": "http://dummyimage.com/320x320.png/5fa2dd/ffffff"
-    },
-    {
-      "uid": "d540c973-2367-457c-90f4-90120f9290a9",
-      "name": "ConsequatMorbiA.jpeg",
-      "status": "error",
-      "url": "http://dummyimage.com/640x640.png/ff4444/ffffff",
-      "thumbUrl": "http://dummyimage.com/320x320.png/cc0000/ffffff"
-    },
-    {
-      "uid": "126fd818-81d7-4ccd-af91-1dbd1b6c8dfd",
-      "name": "AccumsanFelisUt.avi",
-      "status": "success",
-      "url": "http://dummyimage.com/640x640.png/dddddd/000000",
-      "thumbUrl": "http://dummyimage.com/320x320.png/5fa2dd/ffffff"
-    },
-    {
-      "uid": "bb1aff0d-0fed-4533-84df-7cf1315b8d3b",
-      "name": "CongueElementum.ppt",
-      "status": "uploading",
-      "url": "http://dummyimage.com/640x640.png/dddddd/000000",
-      "thumbUrl": "http://dummyimage.com/320x320.png/dddddd/000000"
-    },
-    {
-      "uid": "0ad5399c-b197-4ab2-9f72-03511230657d",
-      "name": "PrimisIn.pdf",
-      "status": "success",
-      "url": "http://dummyimage.com/640x640.png/cc0000/ffffff",
-      "thumbUrl": "http://dummyimage.com/320x320.png/ff4444/ffffff"
-    },
-    {
-      "uid": "8294f36f-9fc2-490e-8d04-bc99801e8d45",
-      "name": "Amet.mpeg",
-      "status": "done",
-      "url": "http://dummyimage.com/640x640.png/ff4444/ffffff",
-      "thumbUrl": "http://dummyimage.com/320x320.png/5fa2dd/ffffff"
-    },
-    {
-      "uid": "6ee4a964-3cff-4eea-afe5-19f160240bf4",
-      "name": "Ultrices.mpeg",
-      "status": "removed",
-      "url": "http://dummyimage.com/640x640.png/cc0000/ffffff",
-      "thumbUrl": "http://dummyimage.com/320x320.png/5fa2dd/ffffff"
-    },
-    {
-      "uid": "3e80b126-4c49-40ed-a3d9-9da7e8cda4a8",
-      "name": "SemPraesent.mp3",
-      "status": "done",
-      "url": "http://dummyimage.com/640x640.png/5fa2dd/ffffff",
-      "thumbUrl": "http://dummyimage.com/320x320.png/cc0000/ffffff"
     }
   ]
 }
