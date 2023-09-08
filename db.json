@@ -1,6 +1,7 @@
 {
   "files": [
     {
+      "id": 1,
       "uid": "57945b82-0fbf-4cfc-a249-ba6d40b8ec32",
       "name": "DapibusDuisAt.mp3",
       "status": "removed",
@@ -8,6 +9,7 @@
       "thumbUrl": "http://dummyimage.com/320x320.png/cc0000/ffffff"
     },
     {
+      "id": 2,
       "uid": "be2a2506-a51a-41e7-84f8-6cd2bbad7a74",
       "name": "DuiNec.avi",
       "status": "removed",
@@ -15,6 +17,7 @@
       "thumbUrl": "http://dummyimage.com/320x320.png/ff4444/ffffff"
     },
     {
+      "id": 3,
       "uid": "cbb63ebf-ba63-4b72-8504-a2fc73d68efc",
       "name": "EratQuisque.doc",
       "status": "uploading",
@@ -22,6 +25,7 @@
       "thumbUrl": "http://dummyimage.com/320x320.png/dddddd/000000"
     },
     {
+      "id": 4,
       "uid": "285815a0-2e29-45c0-a171-620f0395b209",
       "name": "ImperdietSapienUrna.pdf",
       "status": "done",
@@ -29,6 +33,7 @@
       "thumbUrl": "http://dummyimage.com/320x320.png/ff4444/ffffff"
     },
     {
+      "id": 5,
       "uid": "16802b1c-5e13-4b5e-a59d-2f118e4df08f",
       "name": "CubiliaCuraeDonec.avi",
       "status": "uploading",
@@ -36,6 +41,7 @@
       "thumbUrl": "http://dummyimage.com/320x320.png/dddddd/000000"
     },
     {
+      "id": 6,
       "uid": "ae2a2e17-c48e-4529-9128-22cb6570b425",
       "name": "Dolor.tiff",
       "status": "success",
@@ -43,6 +49,7 @@
       "thumbUrl": "http://dummyimage.com/320x320.png/dddddd/000000"
     },
     {
+      "id": 7,
       "uid": "8eb811e4-e122-474a-939a-090ee07f3236",
       "name": "MetusAeneanFermentum.xls",
       "status": "error",
@@ -50,6 +57,7 @@
       "thumbUrl": "http://dummyimage.com/320x320.png/cc0000/ffffff"
     },
     {
+      "id": 8,
       "uid": "d1a02af5-5f2a-4d58-88ae-37645cf83405",
       "name": "FacilisiCras.jpeg",
       "status": "error",
@@ -57,6 +65,7 @@
       "thumbUrl": "http://dummyimage.com/320x320.png/cc0000/ffffff"
     },
     {
+      "id": 9,
       "uid": "e45884b3-2b99-4381-aae4-698f8f3938de",
       "name": "EnimInTempor.doc",
       "status": "success",
@@ -64,151 +73,12 @@
       "thumbUrl": "http://dummyimage.com/320x320.png/ff4444/ffffff"
     },
     {
+      "id": 10,
       "uid": "9beb20f7-8ff8-41a8-9b2b-b6b0d853733c",
       "name": "IdOrnare.avi",
       "status": "done",
       "url": "http://dummyimage.com/640x640.png/dddddd/000000",
       "thumbUrl": "http://dummyimage.com/320x320.png/ff4444/ffffff"
-    },
-    {
-      "uid": "988f0be3-0058-4dd0-977d-8d5ec33cd8cc",
-      "name": "AmetSem.xls",
-      "status": "success",
-      "url": "http://dummyimage.com/640x640.png/dddddd/000000",
-      "thumbUrl": "http://dummyimage.com/320x320.png/ff4444/ffffff"
-    },
-    {
-      "uid": "68a510b4-c9d5-45e7-a36f-6614d13610a5",
-      "name": "Ac.tiff",
-      "status": "done",
-      "url": "http://dummyimage.com/640x640.png/cc0000/ffffff",
-      "thumbUrl": "http://dummyimage.com/320x320.png/ff4444/ffffff"
-    },
-    {
-      "uid": "d66c1164-1ee1-4167-a4ed-53013633ab57",
-      "name": "Morbi.mp3",
-      "status": "success",
-      "url": "http://dummyimage.com/640x640.png/5fa2dd/ffffff",
-      "thumbUrl": "http://dummyimage.com/320x320.png/dddddd/000000"
-    },
-    {
-      "uid": "ba8394dd-1364-4f8b-b063-73cdb9c90387",
-      "name": "Pede.gif",
-      "status": "error",
-      "url": "http://dummyimage.com/640x640.png/cc0000/ffffff",
-      "thumbUrl": "http://dummyimage.com/320x320.png/cc0000/ffffff"
-    },
-    {
-      "uid": "e0de4ad4-8f9e-4573-83cd-0c7e214d06cf",
-      "name": "UltricesPosuereCubilia.jpeg",
-      "status": "uploading",
-      "url": "http://dummyimage.com/640x640.png/dddddd/000000",
-      "thumbUrl": "http://dummyimage.com/320x320.png/ff4444/ffffff"
-    },
-    {
-      "uid": "a4da8c03-125d-4ea2-95ea-9253b0752917",
-      "name": "NibhInQuis.tiff",
-      "status": "done",
-      "url": "http://dummyimage.com/640x640.png/dddddd/000000",
-      "thumbUrl": "http://dummyimage.com/320x320.png/cc0000/ffffff"
-    },
-    {
-      "uid": "3a40d3fd-bc94-4382-bfa9-5c4073a1dd7d",
-      "name": "RutrumNullaTellus.avi",
-      "status": "done",
-      "url": "http://dummyimage.com/640x640.png/5fa2dd/ffffff",
-      "thumbUrl": "http://dummyimage.com/320x320.png/5fa2dd/ffffff"
-    },
-    {
-      "uid": "5318f996-af83-403f-8fa6-9d520c351075",
-      "name": "SitAmet.xls",
-      "status": "uploading",
-      "url": "http://dummyimage.com/640x640.png/ff4444/ffffff",
-      "thumbUrl": "http://dummyimage.com/320x320.png/5fa2dd/ffffff"
-    },
-    {
-      "uid": "cc8fe983-a018-4bf6-9c17-74bc4e7f54c3",
-      "name": "DonecDapibusDuis.avi",
-      "status": "uploading",
-      "url": "http://dummyimage.com/640x640.png/ff4444/ffffff",
-      "thumbUrl": "http://dummyimage.com/320x320.png/5fa2dd/ffffff"
-    },
-    {
-      "uid": "b6eff9ad-8bb7-4475-b1a9-c81294cf259e",
-      "name": "InHac.ppt",
-      "status": "removed",
-      "url": "http://dummyimage.com/640x640.png/5fa2dd/ffffff",
-      "thumbUrl": "http://dummyimage.com/320x320.png/cc0000/ffffff"
-    },
-    {
-      "uid": "a91861d1-6e24-4eee-9827-efc61045206d",
-      "name": "UltricesPosuere.jpeg",
-      "status": "success",
-      "url": "http://dummyimage.com/640x640.png/5fa2dd/ffffff",
-      "thumbUrl": "http://dummyimage.com/320x320.png/5fa2dd/ffffff"
-    },
-    {
-      "uid": "e6a88e4e-429f-4500-acad-6cdbc002d9a0",
-      "name": "Nibh.mp3",
-      "status": "success",
-      "url": "http://dummyimage.com/640x640.png/cc0000/ffffff",
-      "thumbUrl": "http://dummyimage.com/320x320.png/cc0000/ffffff"
-    },
-    {
-      "uid": "d803a394-9be6-4ef0-b0a2-a9125fdbe0f9",
-      "name": "JustoEu.mpeg",
-      "status": "success",
-      "url": "http://dummyimage.com/640x640.png/ff4444/ffffff",
-      "thumbUrl": "http://dummyimage.com/320x320.png/dddddd/000000"
-    },
-    {
-      "uid": "8ec6fa7a-9eda-4839-83ba-8561fd902fd9",
-      "name": "ConsequatUtNulla.png",
-      "status": "uploading",
-      "url": "http://dummyimage.com/640x640.png/ff4444/ffffff",
-      "thumbUrl": "http://dummyimage.com/320x320.png/ff4444/ffffff"
-    },
-    {
-      "uid": "c8662617-e463-4f7c-8662-139482cee1a1",
-      "name": "NullaSed.ppt",
-      "status": "done",
-      "url": "http://dummyimage.com/640x640.png/dddddd/000000",
-      "thumbUrl": "http://dummyimage.com/320x320.png/dddddd/000000"
-    },
-    {
-      "uid": "6bc08cab-965b-4a87-9c64-0ccd0a25644b",
-      "name": "Primis.avi",
-      "status": "success",
-      "url": "http://dummyimage.com/640x640.png/ff4444/ffffff",
-      "thumbUrl": "http://dummyimage.com/320x320.png/dddddd/000000"
-    },
-    {
-      "uid": "10411d10-a458-4e77-a6de-2b53e9315b0a",
-      "name": "Ipsum.mp3",
-      "status": "uploading",
-      "url": "http://dummyimage.com/640x640.png/5fa2dd/ffffff",
-      "thumbUrl": "http://dummyimage.com/320x320.png/5fa2dd/ffffff"
-    },
-    {
-      "uid": "284769f2-44c0-40c8-81f7-9694d520ae17",
-      "name": "Odio.avi",
-      "status": "uploading",
-      "url": "http://dummyimage.com/640x640.png/ff4444/ffffff",
-      "thumbUrl": "http://dummyimage.com/320x320.png/dddddd/000000"
-    },
-    {
-      "uid": "8c2a9ca9-f45b-4562-a828-dbc8959aa47d",
-      "name": "ElitAc.mov",
-      "status": "done",
-      "url": "http://dummyimage.com/640x640.png/dddddd/000000",
-      "thumbUrl": "http://dummyimage.com/320x320.png/5fa2dd/ffffff"
-    },
-    {
-      "uid": "28de0043-33df-420d-89e5-654a1b7d4f4f",
-      "name": "FaucibusOrciLuctus.avi",
-      "status": "done",
-      "url": "http://dummyimage.com/640x640.png/ff4444/ffffff",
-      "thumbUrl": "http://dummyimage.com/320x320.png/5fa2dd/ffffff"
     }
   ]
 }
